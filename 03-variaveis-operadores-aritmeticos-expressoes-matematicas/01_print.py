@@ -1,0 +1,10 @@
+print("="*25)
+print("Olá, Mundo!")
+print('Olá, Mundo')
+print(5.5)
+print(5)
+print(True)
+print(False)
+print("="*25)
+
+print("Olá, Mundo 01", 'Olá, Mundo 02', 5.5, 5, True, False)
